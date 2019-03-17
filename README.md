@@ -7,4 +7,4 @@ Im Laufe des Kurses werde ich euch hier meine Lösungen zu den einzelnen Übunge
 Wenn ihr Fragen habt, dann schreibt mir ruhig oder öffnet ein neues Issue.
 
 Viel Spaß beim Programmieren,
-Julia 
+Julia :-)
