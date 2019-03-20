@@ -8,3 +8,7 @@ Wenn ihr Fragen habt, dann schreibt mir ruhig oder öffnet ein neues Issue.
 
 Viel Spaß beim Programmieren,
 Julia :-)
+
+Hier der Link für die Aufgaben für Dienstag:
+
+https://www.dropbox.com/s/qy4ta1wy0jblb6v/Aufgaben.pptx?dl=0
