@@ -15,3 +15,6 @@ https://www.dropbox.com/s/qy4ta1wy0jblb6v/Aufgaben.pptx?dl=0
 
 **Mittwoch:**
 https://www.dropbox.com/s/d9z8ci6evycnwyr/Aufgaben.pptx?dl=0
+
+**Donnerstag:**
+https://www.dropbox.com/s/b1hancysobb3qom/Aufgaben.pptx?dl=0
