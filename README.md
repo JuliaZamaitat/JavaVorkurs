@@ -1,6 +1,6 @@
 # JavaVorkurs
 
-## Wilkommen beim Vorkurs zu "Programmieren mit Java." 
+## Wilkommen beim Tutorium zum Vorkurs "Programmieren mit Java." für das SoSe '19 
 
 Im Laufe des Kurses werde ich euch hier meine Lösungen zu den einzelnen Übungen hochladen, damit ihr sie daheim nochmal nachvollziehen könnt.
 
