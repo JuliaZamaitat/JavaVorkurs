@@ -10,6 +10,9 @@ Viel Spaß beim Programmieren!
 
 Hier die Links für die Aufgaben:
 
+[Montag](https://www.dropbox.com/s/etyigvj5vxqtw8x/Aufgaben.pptx?dl=0)
+
+
 [Dienstag](https://www.dropbox.com/s/qy4ta1wy0jblb6v/Aufgaben.pptx?dl=0)
 
 
@@ -18,3 +21,5 @@ Hier die Links für die Aufgaben:
 
 [Donnerstag](https://www.dropbox.com/s/b1hancysobb3qom/Aufgaben.pptx?dl=0)
 
+
+[Freitag](https://www.dropbox.com/s/n1nurewfehemcur/Aufgaben.pptx?dl=0)
