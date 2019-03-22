@@ -18,3 +18,4 @@ Hier die Links für die Aufgaben:
 
 [Donnerstag](https://www.dropbox.com/s/b1hancysobb3qom/Aufgaben.pptx?dl=0)
 
+[Freitag](https://www.dropbox.com/s/n1nurewfehemcur/Aufgaben.pptx?dl=0)
